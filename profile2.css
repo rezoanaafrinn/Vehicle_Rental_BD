@@ -1,0 +1,16 @@
+.pic{
+  border-radius:60%;
+  display:block;
+}
+.main{
+  background-color: #00A79D;
+  margin: auto;
+  width: 50%;
+  padding: 20px;
+  border-top: 110px solid white;
+  color: white;
+
+}
+.element{
+  margin-left: 35%;
+}
